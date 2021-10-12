@@ -1,0 +1,31 @@
+.blog-item-container {
+  display: flex;
+  height: 30vh;
+  padding: 20px;
+  border: 2px solid #8e8e8e;
+  border-radius: 30px;
+  margin-bottom: 20px;
+}
+
+.blog-img {
+  width: 40%;
+  margin-right: 20px;
+}
+
+.avatar {
+  height: 60px;
+  width: 60px;
+  border-radius: 30px;
+  margin-right: 10px;
+}
+.avatar-container {
+  display: flex;
+}
+.topic {
+  color: #000000;
+  font-family: Roboto;
+  font-size: 20px;
+}
+.link {
+  text-decoration: none;
+}
